@@ -1,0 +1,10 @@
+.buildozer
+.idea
+.venv
+bin
+compiled model
+spectrograms
+audio
+other models
+__py__cache__
+
